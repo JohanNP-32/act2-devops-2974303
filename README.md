@@ -50,10 +50,14 @@ Ejemplos de Ejecución
 A continuación, se muestran ejemplos de cómo interactuar con el sistema:
 
 Iniciar instancia y respaldar datos:
+```bash
 ./deploy.sh iniciar i-0f8fd0a0b924dfadb ./data mi-bucket-devops-johan
+```
 
 Detener instancia y respaldar logs:
+```bash
 ./deploy.sh detener i-0f8fd0a0b924dfadb ./logs mi-bucket-devops-johan
+```
 
 ---
 
