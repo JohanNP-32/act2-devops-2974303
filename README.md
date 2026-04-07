@@ -62,13 +62,13 @@ Detener instancia y respaldar logs:
 ---
 
 Estructura del Repositorio
-ec2/: Módulo de Python para gestión de instancias (Listar, Iniciar, Detener, Terminar).
+* **ec2/:** Módulo de Python para gestión de instancias (Listar, Iniciar, Detener, Terminar).
 
-s3/: Script de Bash para compresión y subida de respaldos.
+* **s3/:** Script de Bash para compresión y subida de respaldos.
 
-config/: Archivos de configuración y variables de entorno.
+* **config/:** Archivos de configuración y variables de entorno.
 
-logs/: Registros de auditoría de cada despliegue.
+* **logs/:** Registros de auditoría de cada despliegue.
 
-data/: Directorio de origen para pruebas de backup.
+* **data/:** Directorio de origen para pruebas de backup.
 
