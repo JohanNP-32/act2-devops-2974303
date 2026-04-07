@@ -1,0 +1,4 @@
+Tue Apr  7 01:59:26 UTC 2026 - ERROR: El directorio ./data no existe.
+Tue Apr  7 02:00:35 UTC 2026 - INFO: Comprimiendo archivos de ./data
+Tue Apr  7 02:00:35 UTC 2026 - INFO: Subiendo backup_2026-04-07_02-00-35.zip a s3://mi-bucket-devops-ejemplo-j001/
+Tue Apr  7 02:00:36 UTC 2026 - EXITOSO: Backup subido a S3.

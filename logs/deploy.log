@@ -1,0 +1,8 @@
+Tue Apr  7 01:59:25 UTC 2026 - INFO: Iniciando Orquestación DevOps
+Tue Apr  7 01:59:25 UTC 2026 - INFO: Ejecutando EC2: iniciar en i-08f268851e55a129f
+Tue Apr  7 01:59:26 UTC 2026 - INFO: Ejecutando Backup de ./data en mi-bucket-devops-ejemplo-j001
+Tue Apr  7 01:59:26 UTC 2026 - ERROR: Falló script S3
+Tue Apr  7 02:00:34 UTC 2026 - INFO: Iniciando Orquestación DevOps
+Tue Apr  7 02:00:34 UTC 2026 - INFO: Ejecutando EC2: iniciar en i-08f268851e55a129f
+Tue Apr  7 02:00:35 UTC 2026 - INFO: Ejecutando Backup de ./data en mi-bucket-devops-ejemplo-j001
+Tue Apr  7 02:00:36 UTC 2026 - EXITOSO: Despliegue completado.
