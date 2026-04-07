@@ -24,7 +24,7 @@ Los parámetros globales se gestionan en el archivo `config/config.env`. Esto pe
 
 ```env
 INSTANCE_ID=i-0f8fd0a0b924dfadb
-BUCKET_NAME=mi-bucket-devops-ejemplo
+BUCKET_NAME=mi-bucket-devops-ejemplo-j001
 DIRECTORY=./data
 REGION=us-east-1
 ```
@@ -39,10 +39,10 @@ Para ejecutar la orquestación completa, asegúrese de tener permisos de ejecuci
    chmod +x deploy.sh s3/backup_s3.sh
    ```
 2. Ejecutar el Orquestador:
-  El script requiere 4 parámetros: <accion_ec2> <id_instancia> <directorio_local> <nombre_bucket>.
-  ```bash
-  ./deploy.sh <accion> <id_instancia> <directorio> <bucket>
-  ```
+     El script requiere 4 parámetros: <accion_ec2> <id_instancia> <directorio_local> <nombre_bucket>.
+     ```bash
+     ./deploy.sh <accion> <id_instancia> <directorio> <bucket>
+     ```
 
 ---
 
